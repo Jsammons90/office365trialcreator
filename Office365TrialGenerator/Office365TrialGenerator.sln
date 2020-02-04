@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Office365TrialGenerator", "Office365TrialGenerator.csproj", "{161CB148-64D8-4BCA-824F-F58CF03DF411}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Office365TrialGenSetup", "..\Office365TrialGenSetup\Office365TrialGenSetup.vdproj", "{24B5C6F6-8BC7-417E-B1B3-1BE60A292358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{161CB148-64D8-4BCA-824F-F58CF03DF411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161CB148-64D8-4BCA-824F-F58CF03DF411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161CB148-64D8-4BCA-824F-F58CF03DF411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161CB148-64D8-4BCA-824F-F58CF03DF411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B5C6F6-8BC7-417E-B1B3-1BE60A292358}.Debug|Any CPU.ActiveCfg = Debug
+		{24B5C6F6-8BC7-417E-B1B3-1BE60A292358}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8E6188C-F2D2-424F-A87F-4B2F89378139}
+	EndGlobalSection
+EndGlobal
